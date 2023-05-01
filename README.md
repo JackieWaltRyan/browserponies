@@ -2,8 +2,7 @@
 
 Browser Ponies lets you place ponies on websites.
 
-### Online test
-[https://jackiewaltryan.github.io/browserponies](https://jackiewaltryan.github.io/browserponies/)
+Online Test: [index.html](https://jackiewaltryan.github.io/browserponies/index.html)
 
 ### License
 
