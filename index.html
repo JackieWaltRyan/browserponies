@@ -3,13 +3,18 @@
     <head>
         <meta charset="UTF-8"/>
 		<title>Browser Ponies</title>
-        <script type="text/javascript" src="ponycfg.js"></script>
-		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
-        <script type="text/javascript" src="browserponies.js"></script>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <script type="text/javascript" src="browserponies/ponycfg.js"></script>
+        <script type="text/javascript" src="browserponies/browserponies.js"></script>
+        <link rel="shortcut icon" type="image/x-icon" href="browserponies/favicon.ico"/>
         <meta name="description" content="Browser Ponies позволяет вам размещать пони на сайтах."/>
+        <style>
+            body {
+                background-image: url("browserponies/grass.png");
+            }
+        </style>
     </head>
-    <body style="background-color: black; background-image: url('grass.png')">
+    <body>
         <script>
             BrowserPonies.start();
         </script>

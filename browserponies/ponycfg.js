@@ -95,7 +95,7 @@ let BrowserPoniesConfig = {
             ["Speak", "Soundboard #23", "Иии-ха!", "", "False", 0],
             ["Speak", "Soundboard #24", "Добро пожаловать!", "", "False", 0]
         ],
-        baseurl: "ponies/applejack/"
+        baseurl: "browserponies/ponies/applejack/"
     }, {
         ini: [
             ["Name", "Fluttershy"],
@@ -168,7 +168,7 @@ let BrowserPoniesConfig = {
             ["Speak", "Soundboard #26", "Ты лучше всех, у-ху!", "", "False", 1],
             ["Speak", "Theme 1", "Доброту подари друзьям.", "", "True", 0]
         ],
-        baseurl: "ponies/fluttershy/"
+        baseurl: "browserponies/ponies/fluttershy/"
     }, {
         ini: [
             ["Name", "Pinkie Pie"],
@@ -364,7 +364,7 @@ let BrowserPoniesConfig = {
             ["Speak", "Soundboard #28", "Вы знаете, для чего это?", "", "False", 0],
             ["Speak", "Soundboard #29", "Тебе надо чаще отдыхать.", "", "False", 0]
         ],
-        baseurl: "ponies/pinkie%20pie/"
+        baseurl: "browserponies/ponies/pinkie%20pie/"
     }, {
         ini: [
             ["Name", "Rainbow Dash"],
@@ -441,7 +441,7 @@ let BrowserPoniesConfig = {
             ["Speak", "Wut", "О, пожалуйста. Я... стоп, что?", "", "True", 0],
             ["Speak", "training", "........", "", "True", 0]
         ],
-        baseurl: "ponies/rainbow%20dash/"
+        baseurl: "browserponies/ponies/rainbow%20dash/"
     }, {
         ini: [
             ["Name", "Rarity"],
@@ -524,7 +524,7 @@ let BrowserPoniesConfig = {
             ["Speak", "Farm 6", "Я ношу обвисшие панталоны!", "", "False", 2],
             ["Speak", "Farm 7", "Мне нравится быть покрытой грязью!!!", "", "False", 2]
         ],
-        baseurl: "ponies/rarity/"
+        baseurl: "browserponies/ponies/rarity/"
     }, {
         ini: [
             ["Name", "Twilight Sparkle"],
@@ -607,6 +607,6 @@ let BrowserPoniesConfig = {
             ["Speak", "banner name", "А что случилось с остальными буквами?", "", "True", 0],
             ["Speak", "banner again", "Мы не можем повесить плакат, на котором написано 'Добро пожаловать, Принцесса Селест.'", "", "True", 0]
         ],
-        baseurl: "ponies/twilight%20sparkle/"
+        baseurl: "browserponies/ponies/twilight%20sparkle/"
     }]
 };
